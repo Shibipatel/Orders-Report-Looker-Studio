@@ -1,5 +1,3 @@
-# Orders-Report-Looker-Studio
-https://datastudio.google.com/reporting/aa2e0726-174a-4ffa-9a21-e521fa5315b3
 # 📊 Orders Report Dashboard — Google Looker Studio
 
 ## 📁 Project Overview
